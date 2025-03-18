@@ -2,6 +2,7 @@ body {
     text-align: center;
     margin: auto;
     font-size: 70px;
+    background-color: blueviolet;
 }
 p {
     text-align: right;
